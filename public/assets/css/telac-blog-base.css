@@ -56,6 +56,11 @@ span{
     color:#000;
     margin-top :18px;
 }
+.date {
+    width: 90px;
+    font-size: 14px;
+    white-space: nowrap; /* これを追加：改行を禁止する */
+}
 
 @media screen and (max-width: 480px) {
     .title{
