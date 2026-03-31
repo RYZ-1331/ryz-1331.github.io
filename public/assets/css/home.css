@@ -6,6 +6,7 @@
     border-radius: 20px;
     border: none;
     background:#fcbf00;
+    color:#000;
 }
 .menubutton-TD{
     /*base*/
@@ -56,4 +57,8 @@
     /*option*/
     background:#e08e8e;
 
+}
+.menubutton, .menubutton-TD {
+    margin-top: 0px;
+    vertical-align: top; /* これを追加！ */
 }
