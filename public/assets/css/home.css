@@ -32,6 +32,11 @@
     font-weight:bolder;
 
 }
+.customad{
+    background:#0000ff;
+    color:#fff;
+}
+
 .menubutton:hover{
     background:#ffd952;
 }
@@ -41,6 +46,9 @@
 .menubutton-KD:hover{
     background:#8bf44f;
 }
+.customad:hover{
+    background:#5555ff;
+}
 .menubutton:active{
     background:#d4a000;
 }
@@ -49,6 +57,9 @@
 }
 .menubutton-KD:active{
     background:#4bb40f;
+}
+.customad:active{
+    background:#0000aa;
 }
 
 .custombutton{
@@ -92,8 +103,4 @@
 }
 .widebutton{
     width:200px;
-}
-.customad{
-    background:#0000ff;
-    color:#fff;
 }
