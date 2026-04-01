@@ -64,10 +64,17 @@ span{
 .smallfont{
     font-size:13px;
 }
+img{
+    width: 305px;
+    height: 230px;
+}
 
 @media screen and (max-width: 480px) {
     .title{
         margin-left:20px;
         /*font-size:10px;*/
+    }
+    .bottomblock p{
+        font-size:10px;
     }
 }
