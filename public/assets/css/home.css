@@ -42,6 +42,16 @@
     color:#000;
     font-weight:bolder;
 }
+.menubutton-CD{
+    height:100px;
+    font-size:20px;
+    border-radius: 20px;
+    border:none;
+    /*option*/
+    background:#77c3f2;
+    color:#000;
+    font-weight:bolder;
+}
 .customad{
     background:#0000ff;
     color:#fff;
@@ -59,6 +69,9 @@
 .menubutton-TO:hover{
     background:#ffd952;
 }
+.menubutton-CD:hover{
+    background:#b2e7ff;
+}
 .customad:hover{
     background:#5555ff;
 }
@@ -73,6 +86,9 @@
 }
 .menubutton-TO:active{
     background:#d4a000;
+}
+.menubutton-CD:active{
+    background:#4597cc;
 }
 .customad:active{
     background:#0000aa;
@@ -95,7 +111,7 @@
     background:#aaa;
     color:#000;
 }
-.menubutton, .menubutton-TD , .custombutton , .menubutton-KD , .menubutton-TO{
+.menubutton, .menubutton-TD , .custombutton , .menubutton-KD , .menubutton-TO , .menubutton-CD{
     margin-top: 5px;
     vertical-align: top; /* これを追加！ */
 }
