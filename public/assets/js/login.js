@@ -1,3 +1,5 @@
+location.href = './home.html'
+
 // ページが読み込まれた時に実行
 window.onload = function() {
     // 1. localStorage から保存されている LSK を取得
